@@ -16,3 +16,6 @@
 > 1000-2000us pwm sinyalleri için geçerlidir, birçok rc alıcı devresi 1000-2000us arası pwm üretmektedir, eski tip alıcı kullanıyorsanız devrenin 8 nolu pot devresinin girişine direkt 5v verebilirsiniz. LM358 aynı anda 2 kanal kontrolü yapabilir LM358 in (2-3 ve 5-6 aynı görevi yapar 2-3 ün çıkışı 1 nolu pin,  5-6 nın çıkışı 7 nolu pin dir) son olarak 10k pot (preset) türünde olursa daha ince ayar yapılabilir ve gaz veya direksiyon tetiğinin sonuna yada başına gelince tetiklensin diyebilirsiniz.
 
 > Not : Eğer motorunuz reverse ise ya da örnek olarak gaz kolunun tersi işlem yapılacak ise LM358 in 2. ve 3. pinlerini yer değiştirerek çözebilirsiniz, daha hızlı tetik tepkimesi isterseniz 10uf yi düşürebilirsiniz ama unutmayın buda pot yani tetiklenme konum hassasiyetini etkileyecektir.
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p2PjgxuQ5Bo/0.jpg)](https://www.youtube.com/watch?v=p2PjgxuQ5Bo)
