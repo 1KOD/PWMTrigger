@@ -17,5 +17,5 @@
 
 > Not : Eğer motorunuz reverse ise ya da örnek olarak gaz kolunun tersi işlem yapılacak ise LM358 in 2. ve 3. pinlerini yer değiştirerek çözebilirsiniz, daha hızlı tetik tepkimesi isterseniz 10uf yi düşürebilirsiniz ama unutmayın buda pot yani tetiklenme konum hassasiyetini etkileyecektir.
 
-
+Youtube Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p2PjgxuQ5Bo/0.jpg)](https://www.youtube.com/watch?v=p2PjgxuQ5Bo)
